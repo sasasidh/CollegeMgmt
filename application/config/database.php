@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'ip-172-31-46-24.ap-southeast-2.compute.internal',
+	'hostname' => 'rdsmigrationdb.cbyo1dhkqegq.ap-southeast-2.rds.amazonaws.com',
 	'username' => 'admin',
 	'password' => 'admin123',
 	'database' => 'college_mgmt',
